@@ -2,4 +2,4 @@
 
 Zero-sample effect demonstration
 
-![0](imgs\0.png)
+![0](./imgs/0.pngn
