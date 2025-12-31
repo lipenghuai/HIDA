@@ -1,5 +1,9 @@
 ### Prepare the dataset using the scripts in the tools.
 
+<p align="center">
 Zero-sample effect demonstration
-![效果图](imgs/0.png)
+</p>
+<p align="center">
+  <img src="imgs/0.png" width="600">
+</p>
 
